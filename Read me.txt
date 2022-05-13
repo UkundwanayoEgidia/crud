@@ -1,0 +1,13 @@
+ HOME PAGE
+-----------
+include all people that have been added or registred
+that contaions their name and email
+ 
+ADD A PERSON PAGE
+-----------------
+On this page it is where you can add new person into database
+
+UPLOAD CSV FILE
+----------------
+For this page it is where you are going to upload 
+the list of people that are in excel file
